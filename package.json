@@ -1,6 +1,6 @@
 {
   "name": "iobutton",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Minimal close button npm package",
   "main": "index.ts",
   "files": [
