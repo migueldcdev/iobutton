@@ -8,7 +8,7 @@ const CloseButton: React.FC<CloseButtonProps> = ({ onClick }) => {
   const [isHovered, setIsHovered] = useState(false);
 
   const closeButtonStyle = {
-    backgroundColor: isHovered && "#fafafa",
+    backgroundColor: isHovered ? "#fafafa" : "",
     cursor: "pointer",
     padding: "6px",
     borderRadius: "4px",
