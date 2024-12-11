@@ -5,9 +5,7 @@
   "main": "index.ts",
   "files": [
     "index.ts",
-    "button.tsx",
-    "package.json",
-    "README.md"
+    "button.tsx"    
   ],
   "scripts": {
     "test": "npm run test"
