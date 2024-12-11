@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "Minimal button npm package",
   "main": "index.ts",
+  "files": [
+    "index.ts",
+    "button.tsx",
+    "package.json",
+    "README.md"
+  ],
   "scripts": {
     "test": "npm run test"
   },
