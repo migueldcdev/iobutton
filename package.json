@@ -1,0 +1,27 @@
+{
+  "name": "iobutton",
+  "version": "1.0.0",
+  "description": "Minimal button npm package",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migueldcdev/iobutton.git"
+  },
+  "keywords": [
+    "NPM",
+    "Button",
+    "Package"
+  ],
+  "author": "Miguel Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/migueldcdev/iobutton/issues"
+  },
+  "homepage": "https://github.com/migueldcdev/iobutton#readme",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
