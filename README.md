@@ -1,6 +1,6 @@
 # IOButton
 
-A minimal package with customizable React button.
+A minimal package with a customizable React button.
 
 ## Class Name Mapping
 

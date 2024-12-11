@@ -1,11 +1,12 @@
 {
   "name": "iobutton",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Minimal button npm package",
   "main": "index.ts",
   "files": [
     "index.ts",
-    "button.tsx"    
+    "button.tsx",
+    "styles.css"    
   ],
   "scripts": {
     "test": "npm run test"
